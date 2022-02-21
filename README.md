@@ -1,9 +1,18 @@
 # Pandas_Learning_Steps
-## First Learn **_Numpy_** 
-## Second **_Pandas_**
-  * Series
-  * DataFrame
+## First Learn **_Numpy_** and Second **_Pandas_**
 
+>Use My Jupyter Book and Read Documentation
+  * [Numpy_Documentation](https://numpy.org/doc/)
+  * [Pandas_Documentation](https://pandas.pydata.org/docs/)
+ 
+
+```mermaid
+graph TD;
+    Learn-->Numpy;
+    Learn-->Pandas;
+    Numpy-->Job;
+    Pandas-->Job;
+```
 > Subsequent Steps to Learn Pandas  from Numpy and Pandas Python Library/Module
 
 - [x] #739
